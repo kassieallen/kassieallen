@@ -9,6 +9,7 @@ Languages:
 
 Tools:
 
+![NixOS](https://img.shields.io/badge/NixOS-1261a0?style=for-the-badge&logo=nixos&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-vim?style=for-the-badge&logo=Neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
