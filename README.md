@@ -4,6 +4,7 @@ I'm an aspiring embedded systems engineer who is passionate about making open-so
 Languages:
 
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
+[C](https://img.shields.io/badge/C-3366ff?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-1261a0?style=for-the-badge&logo=nixos&logoColor=white)
 
