@@ -4,7 +4,7 @@ I'm an aspiring embedded systems engineer who is passionate about making open-so
 Languages:
 
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
-[C](https://img.shields.io/badge/C-3366ff?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-3366ff?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-1261a0?style=for-the-badge&logo=nixos&logoColor=white)
 
@@ -23,4 +23,4 @@ Tools:
 ![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 
 
-If you would like to contact me, your best bet is on discord: @ka5._. or by email @ kasallen.21@gmail.com
+If you would like to contact me, your best bet is on discord: `ka5._.`
